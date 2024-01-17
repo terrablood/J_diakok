@@ -1,0 +1,1 @@
+https://github.com/MolnAtt/SQL/tree/main/feladatsorok/3000J
